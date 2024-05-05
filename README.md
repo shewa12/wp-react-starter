@@ -7,7 +7,7 @@ Initiate plugin development with a React-ready application.
 - WordPress Scripts
 - WordPress Elements
 
-## Installing Easy Poll
+## Installing
 
 ### Prerequisite
 

@@ -1,7 +1,7 @@
 {
   "name": "wp-react-starter",
   "version": "1.0.0",
-  "description": "Kick off plugin development with react ready app",
+  "description": "Initiate plugin development with a React-ready application.",
   "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

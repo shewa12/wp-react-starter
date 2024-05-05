@@ -3,7 +3,7 @@
  * Plugin Name: WP React Starter
  * Version:     1.0.0
  * Plugin URI:  https://github.com/shewa12/wp-react-starter
- * Description: Kick off plugin development with react ready app
+ * Description: Initiate plugin development with a React-ready application.
  * Author:      Shewa
  * Author URI:  https://shewazone.com
  * Text Domain: wp-react-starter

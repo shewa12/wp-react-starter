@@ -1,6 +1,6 @@
 ## WP React Starter
 
-Initiate plugin development with a React-ready application.
+Initiate plugin development with a React-ready application. Say goodbye to installation headaches or React-WP and dive straight into crafting your next plugin masterpiece. 
 
 ## Packages Used
 

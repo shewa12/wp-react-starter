@@ -1,0 +1,25 @@
+.app {
+    background-color: #f0f0f1;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    color: #424242;
+    font-size: 2rem;
+    margin-top: 1rem;
+  }
+  
+  svg {
+    animation: rotate 5s infinite linear;
+  }
+  
+  @keyframes rotate {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  

@@ -22,3 +22,8 @@ Initiate plugin development with a React-ready application.
 
 Then activate the plugin and you are all set. 
 You should see a admin menu `WP React Starter`
+
+## What's Next?
+
+Navigate to the `src/index.js` file and start developing your react app
+inside WordPress plugin & see the action!
